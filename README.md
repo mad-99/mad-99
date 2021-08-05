@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Madhurmaheshwari1999@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 <p align="left">
   <a href="https://twitter.com/madhurm65338810" target="blank"><img align="center" src="twitter.svg" alt="madhurm65338810" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/madhur-maheshwari-8b252418b" target="blank"><img align="center" src="linkedin.svg"            alt="https://www.linkedin.com/in/madhur-maheshwari-8b252418b" height="30" width="40" /></a>
