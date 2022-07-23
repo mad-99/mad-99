@@ -4,13 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mad-99&label=Profile%20views&color=0e75b6&style=flat" alt="mad-99" /> </p>
 <img align="right" alt="Coding" width="400" src="programmer.gif">
 
-- //🔭 I’m currently working on **BookHub**
+- 🔭 I’m currently working on **BookHub**
 
-- 🌱 I’m currently learning **DS,Java,Android**
+- 🌱 I’m currently learning **Salesforce**
 
-- 👯 I’m looking to collaborate on **Android**
-
-- 💬 Ask me about **C,Java**
+- 💬 Ask me about **C,Java,salesforce**
 
 - 📫 How to reach me **Madhurmaheshwari1999@gmail.com**
 
